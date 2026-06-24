@@ -25,5 +25,5 @@
 ### Suggested App Store fields
 
 - **Privacy Policy URL:** English URL above  
-- **Support URL:** project homepage or `mailto:[SUPPORT_EMAIL]`  
+- **Support URL:** `https://<GITHUB_USERNAME>.github.io/<REPO_NAME>/` (see [support page](../index.md))  
 - **Marketing URL:** optional — repository or product page
